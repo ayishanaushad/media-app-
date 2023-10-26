@@ -1,0 +1,16 @@
+{
+  "name": "media-backend",
+  "version": "1.0.0",
+  "description": "jsonserver for media app",
+  "main": "index.js",
+  "script":{
+
+  "start": "node index.js"
+  
+  },
+  "author": "Ayisha",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
